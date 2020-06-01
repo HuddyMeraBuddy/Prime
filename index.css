@@ -4,6 +4,7 @@ ul{
     padding: 0em;
     overflow: scroll;
     background-color: #333333;
+    width: 100%;
 }
 
 li {
